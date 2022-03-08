@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Thuc Nguyen
-[![Linkedin Badge](https://img.shields.io/badge/-thucngv-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/thucngv)](https://t.me/thucngv)
-[![Gmail Badge](https://img.shields.io/badge/-thucnguyenit35@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thucnguyenit35@gmail.com)](mailto:thucnguyenit35@gmail.com)
-
+[![Linkedin Badge](https://img.shields.io/badge/-@thucngv-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/thucngv)](https://t.me/thucngv)
 ---
 
 - 🔭 My skills: C#, .Net, Android, Javascript...
