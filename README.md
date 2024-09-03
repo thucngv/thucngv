@@ -8,9 +8,13 @@
 ## Live Project
  <ul>
        <li>
-        <a href="https://play.google.com/store/apps/details?id=net.nguyenthuc.vietnameselunarcalendar&ref=github.com/thucngv"><image src="https://play-lh.googleusercontent.com/fjnNV-3KBihOVr50aYvKVGRiqeD2gRxH5S2_CnaA9LiZ8TTxY0R7NnFmmL8q5YrBmv0=s75-rw" title="Ứng dụng Âm lịch Việt Nam">
+        <a href="https://play.google.com/store/apps/details?id=net.nguyenthuc.vietnameselunarcalendar"><image src="https://play-lh.googleusercontent.com/fjnNV-3KBihOVr50aYvKVGRiqeD2gRxH5S2_CnaA9LiZ8TTxY0R7NnFmmL8q5YrBmv0=s75-rw" title="Ứng dụng Âm lịch Việt Nam">
         Ứng dụng Âm lịch Việt Nam</a>
     </li>   
+         <li>
+        <a href="https://speakingclock.net"><image src="https://play-lh.googleusercontent.com/9__Hfgi2L6LAbw-uepFjoFVQ0lInTpr50tYrOVd9cylf2aHckBTQA2D1heItLwoDnm0=s75-rw" title="Ứng dụng đồng hồ nói">
+        Ứng dụng Đồng hồ nói</a>
+    </li> 
 </ul>
 
 ## Analytics
