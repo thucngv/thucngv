@@ -5,22 +5,6 @@
 - 🔭 My skills: C#, .Net, Android, Javascript...
 - 🌱 I’m currently learning Python, Swift, Blockchain...
 
-## Live Project
- <ul>
-       <li>
-        <a href="https://play.google.com/store/apps/details?id=net.nguyenthuc.vietnameselunarcalendar"><image src="https://play-lh.googleusercontent.com/fjnNV-3KBihOVr50aYvKVGRiqeD2gRxH5S2_CnaA9LiZ8TTxY0R7NnFmmL8q5YrBmv0=s75-rw" title="Ứng dụng Âm lịch Việt Nam">
-        Ứng dụng Âm lịch Việt Nam</a>
-    </li>   
-         <li>
-        <a href="https://speakingclock.net"><image src="https://play-lh.googleusercontent.com/9__Hfgi2L6LAbw-uepFjoFVQ0lInTpr50tYrOVd9cylf2aHckBTQA2D1heItLwoDnm0=s75-rw" title="Ứng dụng đồng hồ nói">
-        Ứng dụng Đồng hồ nói</a>
-    </li> 
-          <li>
-        <a href="https://traphatnguoi.app"><image src="https://play-lh.googleusercontent.com/-NDx8ofgfz7q-ahpqz0d1oDMx1sjcP9vpvNr9ikwI-SgE-QXkBAi-TliXLWs8Kz-XA=s75-rw" title="Ứng dụng tra phạt nguội toàn quốc">
-        Ứng dụng Tra phạt nguội</a>
-    </li> 
-</ul>
-
 ## Analytics
 
 ![thucngv github stats](https://github-readme-stats.vercel.app/api?username=thucngv&show_icons=true&count_private=true)
